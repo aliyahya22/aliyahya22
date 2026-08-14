@@ -1,36 +1,53 @@
-# Hi 👋, I'm Ali Yahya Ashari
+<div align="center">
 
-### QA Engineer | Manual & Automation Testing
+# Hi there, I'm Ali Yahya 👋
+### Aspiring Software Quality Assurance Engineer 🚀
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliyahya22&label=Profile views&color=0e75b6&style=flat" alt="aliyahya22" /> </p>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliyahya22)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliyahya22" alt="aliyahya22" /></a> </p>
+---
 
-- 🔭 I'm currently working on **QA Automation Projects & Portfolio Development**
+</div>
 
-- 🌱 I'm currently learning **Katalon Studio & Automation Testing**
+## 📌 About Me
 
-- 👯 I'm looking to collaborate on **Open-source QA Automation Frameworks & Testing Projects**
+- 🎯 **Career Goal:** Transitioning & building a strong foundation in **Software Quality Assurance (SQA)**.
+- 🧪 **Current Focus:** Deepening knowledge in **Automation Testing with Katalon Studio** & expanding E2E test cases.
+- 🛠️ **Hands-on Experience:** Manual testing, writing test scenarios/cases, bug reporting, and E2E automation with **Cypress** & **Katalon**.
 
-- 🤝 I'm looking for help with **Advanced Automation Testing Strategies & CI/CD Integration**
+---
 
-- 💬 Ask me about **Manual Testing, Test Cases, Katalon Studio, and Cypress**
+## 🛠️ Tech Stack & Tools
 
-- 📫 How to reach me **aliyhyaa98@gmail.com**
+### 🧪 QA & Testing Tools
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Katalon](https://img.shields.io/badge/Katalon-A2D02B?style=for-the-badge&logo=katalon&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-- 👨‍💻 All of my projects are available at **[https://github.com/aliyahya22](https://github.com/aliyahya22)**
+### 💻 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/aliyahya22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aliyahya22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-yahya-ashari-999b831b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-yahya-ashari-999b831b9/" height="30" width="40" /></a>
-</p>
+### ⚙️ Version Control & Management
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cypress" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliyahya22&show_icons=true&locale=en&layout=compact" alt="aliyahya22" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliyahya22&show_icons=true&locale=en" alt="aliyahya22" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliyahya22&" alt="aliyahya22" /></p>
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliyahya22&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyahya22&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+💬 *Always eager to learn, collaborate, and ensure software quality!*
+
+</div>
