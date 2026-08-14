@@ -37,13 +37,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliyahya22&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyahya22&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliyahya22&show_icons=true&locale=en&layout=compact" alt="aliyahya22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliyahya22&show_icons=true&locale=en" alt="aliyahya22" /></p>
