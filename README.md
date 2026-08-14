@@ -37,11 +37,15 @@
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliyahya22&show_icons=true&locale=en&layout=compact" alt="aliyahya22" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliyahya22&show_icons=true&locale=en" alt="aliyahya22" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliyahya22&" alt="aliyahya22" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliyahya22&show_icons=true&locale=en" alt="GitHub Stats Ali" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliyahya22&show_icons=true&locale=en&layout=compact" alt="Top Languages Ali" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliyahya22" alt="GitHub Streak Ali" />
+</p>
 
 ---
 
