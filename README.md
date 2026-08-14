@@ -3,7 +3,7 @@
 # Hi there, I'm Ali Yahya 👋
 ### Aspiring Software Quality Assurance Engineer 🚀
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-yahya-ashari-999b831b9/)
 [![GitHub Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliyahya22)
 
 ---
